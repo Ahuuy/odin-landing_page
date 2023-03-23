@@ -30,7 +30,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 100px;
     padding-top: 10px;
     padding-bottom: 70px;
@@ -54,7 +54,7 @@ body {
 
 .hero {
     display: flex;
-    margin-left: 200px;
+    margin-left: 100px;
     padding-top: 30px;
 }
 
