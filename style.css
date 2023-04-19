@@ -121,3 +121,26 @@ h2{
     text-align: center;
     font-size: 18px;
 }
+
+/* Third Section */
+
+.third-section {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotes {
+    font-size: 36px;
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+h3 {
+    text-align: right;
+}
