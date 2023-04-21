@@ -201,3 +201,18 @@ h2{
     font-weight: 800;
     font-size: 18px;
 }
+
+/* footer */
+
+.footer{
+    height: 100px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.copyright{
+    text-align: center;
+}
