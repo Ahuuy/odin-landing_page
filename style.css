@@ -151,7 +151,53 @@ h2{
   }
 
 
+/* Fourth Section */
+
+.fourth-section{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
   
-  
-  
-  
+.signupbox{
+    background-color: #3882F6;
+    height: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+
+.calltoaction{
+    margin: auto;
+    color: #E5E7EB;
+}
+.callactn{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.paragraph{
+    display: block; 
+    margin-top: 0;
+}
+
+.signupbut2{
+    margin: auto;
+}
+
+#signup2 {
+    background-color: #3882F6;
+    border: solid;
+    border-color: #E5E7EB;
+    border-radius: 10px;
+    color: #E5E7EB;
+    width: 150px;
+    height: 50px;
+    font-weight: 800;
+    font-size: 18px;
+}
